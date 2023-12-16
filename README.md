@@ -1,5 +1,7 @@
 # Dixit Clone Digital Board Game Adaptation
 
+![f4268119-feb1-435f-9a2a-427f1ec53fb0](https://github.com/zarkobabic/Dixit-Clone--Digital-Board-Game-Adaptation/assets/92127059/d830478b-bb14-4d29-9082-f56e3e26bc1a)
+
 ## Navigation
 
 - [Overview](#overview)
