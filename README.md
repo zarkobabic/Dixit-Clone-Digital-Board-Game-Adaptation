@@ -34,10 +34,13 @@ join as clients.
 The frontend part is made entirely in the Unity environment and contains a clear and intuitive UI so that the game is clear even to players who play it for the first time, the backend is made in the C# language and the client-host architecture is used, while the Mirror library is chosen as an intermediary between these two components. The project is based on an object-oriented principle, where each component represents an object on which events occur, thus the programming uses the event-driven paradigm. Commands and remote procedure calls are used to communicate with the server.
 
 ## Final Product
-![Screenshot (125)](https://github.com/zarkobabic/Dixit-Clone--Digital-Board-Game-Adaptation/assets/92127059/b033cc2f-c8aa-43d4-bc3b-8da26dde05cc)
-![Screenshot (117)](https://github.com/zarkobabic/Dixit-Clone--Digital-Board-Game-Adaptation/assets/92127059/fec8136b-90f2-4cd5-a937-c20a69e83859)
-![Screenshot (119)](https://github.com/zarkobabic/Dixit-Clone--Digital-Board-Game-Adaptation/assets/92127059/baa76ebc-fad4-4800-9728-9e376d154d0e)
+
 ![Screenshot (123)](https://github.com/zarkobabic/Dixit-Clone--Digital-Board-Game-Adaptation/assets/92127059/6797d0ee-2e20-48eb-8fda-b69f24f09bee)
+![Screenshot (119)](https://github.com/zarkobabic/Dixit-Clone--Digital-Board-Game-Adaptation/assets/92127059/baa76ebc-fad4-4800-9728-9e376d154d0e)
+![Screenshot (117)](https://github.com/zarkobabic/Dixit-Clone--Digital-Board-Game-Adaptation/assets/92127059/fec8136b-90f2-4cd5-a937-c20a69e83859)
+![Screenshot (125)](https://github.com/zarkobabic/Dixit-Clone--Digital-Board-Game-Adaptation/assets/92127059/b033cc2f-c8aa-43d4-bc3b-8da26dde05cc)
+
+
 
 
 
